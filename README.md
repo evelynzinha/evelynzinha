@@ -1,12 +1,12 @@
-### bem vindo ao meu perfil💗!!
+### bem vindo ao meu perfil💗🐻
 
-Meu nome é Evelyn 
+Meu nome é evelynzinha🐻
 
 - estou estudando no [alura](https://www.alura.com.br)
 - estou me desenvolvendo na linguagem JavaScript.
 - utilizo esse espaço para minha organização e comartilhamento dos meus projetos desenvolvidos.
 
-### você pode entrar em contato comigo 💗
+### você pode entrar em contato comigo 💗🐻
 gomes.souza.evelyn@escola.pr.gov.br
 @evelynsouza 
 
